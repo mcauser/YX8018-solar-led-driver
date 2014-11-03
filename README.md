@@ -15,7 +15,7 @@ Contents:
 * YX8018 solar LED driver ic, TO-94 package
 * Solar panel, 5cm x 5.5cm
 * 3x white LED
-* 100 Ohms (10%) resistor (brown black brown silver)
+* 100 Microhenrys +/-10% inductor (brown black brown silver)
 * Switch
 
 YX8018 pins:
