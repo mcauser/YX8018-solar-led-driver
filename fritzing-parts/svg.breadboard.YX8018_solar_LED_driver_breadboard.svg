@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     width="0.33in" height="0.4521in" viewBox="0 0 23.76 32.551" enable-background="new 0 0 23.76 32.551" xml:space="preserve">
+<g id="breadboard">
+    <rect id="connector0pin" x="0" y="22" fill="none" width="1" height="1"/>
+    <rect id="connector1pin" x="7.199" y="22" fill="none" width="1" height="1"/>
+    <rect id="connector2pin" x="14.399" y="22" fill="none" width="1" height="1"/>
+    <rect id="connector3pin" x="21.599" y="22" fill="none" width="1" height="1"/>
+    <line id="connector0leg" fill="none" stroke="#8C8C8C" stroke-width="2.16" stroke-linecap="round" x1="1.08" y1="32.551" x2="1.08" y2="53.551"/>
+    <line id="connector1leg" fill="none" stroke="#8C8C8C" stroke-width="2.16" stroke-linecap="round" x1="8.28" y1="32.551" x2="8.28" y2="53.551"/>
+    <line id="connector2leg" fill="none" stroke="#8C8C8C" stroke-width="2.16" stroke-linecap="round" x1="15.479" y1="32.551" x2="15.479" y2="53.551"/>
+    <line id="connector3leg" fill="none" stroke="#8C8C8C" stroke-width="2.16" stroke-linecap="round" x1="22.681" y1="32.551" x2="22.681" y2="53.551"/>
+    <g id="YX8018">
+        <path fill="#8C8C8C" d="M20.786,26.625c-1.12-1.127-2.391-2.235-2.391-3.428c0-1.191,0-5.186,0-5.186h-2.16v5.312
+            c0,1.784,1.535,3.329,3.019,4.822c1.101,1.104,2.347,2.273,2.347,3.373v1.021l0,0h2.159l0,0v-1.185
+            C23.76,29.618,22.248,28.098,20.786,26.625z"/>
+        <path fill="#8C8C8C" d="M15.623,26.91c-0.44-1.396-0.856-2.718-0.856-3.892v-5.006h-2.16v5.006c0,1.506,0.485,3.049,0.957,4.542
+            c0.437,1.373,0.845,2.67,0.845,3.799v1.188h-0.009l0,0h2.16l0,0h0.008V31.36C16.567,29.897,16.086,28.376,15.623,26.91z"/>
+        <path fill="#8C8C8C" d="M8.993,18.013v5.006c0,1.174-0.417,2.494-0.857,3.892c-0.464,1.47-0.942,2.986-0.942,4.449v1.188h0.008
+            l0,0H9.36l0,0H9.354V31.36c0-1.129,0.409-2.426,0.842-3.799c0.473-1.493,0.959-3.036,0.959-4.542v-5.006H8.993L8.993,18.013z"/>
+        <path fill="#8C8C8C" d="M5.363,18.013c0,0,0,3.994,0,5.186c0,1.192-1.271,2.302-2.39,3.428C1.511,28.098,0,29.618,0,31.36v1.188
+            l0,0h2.16l0,0v-1.023c0-1.096,1.246-2.27,2.345-3.373c1.483-1.493,3.019-3.038,3.019-4.821v-5.313L5.363,18.013L5.363,18.013z"/>
+        <rect x="4.255" y="8.701" width="15.25" height="10.492"/>
+        <rect x="2.262" y="6.697" fill="#111111" width="19.235" height="1.049"/>
+        <polygon fill="#191919" points="19.505,8.699 4.255,8.701 2.262,7.746 21.497,7.746"/>
+        <polygon fill="#222222" points="4.255,19.193 2.263,18.239 2.263,7.747 4.255,8.701"/>
+        <polygon fill="#222222" points="21.497,7.746 19.505,8.699 19.505,19.193 21.497,18.238"/>
+        <text transform="matrix(1 0 0 1 5.3726 12.1765)" fill="#FFFFFF" font-family="'OCRAStd'" font-size="3.5">YX8018</text>
+    </g>
+</g>
+</svg>

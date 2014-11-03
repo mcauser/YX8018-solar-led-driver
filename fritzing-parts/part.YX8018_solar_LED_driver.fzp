@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.0b" moduleId="YX8018_solar_LED_driver">
+ <version>1</version>
+ <author>Mike Causer</author>
+ <title>YX8018 solar LED driver</title>
+ <label>YX8018</label>
+ <date>Mon Nov 3 2014</date>
+ <url>https://github.com/mcauser/YX8018-solar-led-driver</url>
+ <tags>
+  <tag>YX8018</tag>
+  <tag>solar</tag>
+  <tag>LED</tag>
+  <tag>driver</tag>
+  <tag>TO-94</tag>
+ </tags>
+ <properties>
+  <property name="family">Solar led driver</property>
+  <property name="variant">variant 1</property>
+  <property name="part number">YX8018</property>
+  <property name="layer"></property>
+  <property name="package">TO-94</property>
+  <property name="pins">4</property>
+ </properties>
+ <description>Solar LED driver. During daylight the solar panel recharges the battery. At night the LED turns on.</description>
+ <views>
+  <iconView>
+   <layers image="icon/YX8018_solar_LED_driver_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/YX8018_solar_LED_driver_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/YX8018_solar_LED_driver_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/YX8018_solar_LED_driver_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" type="male" name="LX">
+   <description>Switching drain</description>
+   <views>
+    <breadboardView>
+     <p legId="connector0leg" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p legId="connector1leg" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper0"/>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" type="male" name="CE">
+   <description>Solar battery negative electrode, control / charge control of solar battery</description>
+   <views>
+    <breadboardView>
+     <p legId="connector2leg" svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" terminalId="connector2terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pad" layer="copper0"/>
+     <p svgId="connector2pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector3" type="male" name="VDD">
+   <description>Solar battery positive electrode</description>
+   <views>
+    <breadboardView>
+     <p legId="connector3leg" svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" terminalId="connector3terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pad" layer="copper0"/>
+     <p svgId="connector3pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>
