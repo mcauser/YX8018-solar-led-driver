@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.2" baseProfile="tiny" id="svg2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32" xml:space="preserve">
+<g id="icon">
+	<path fill="none" stroke="#000000" stroke-width="1.0423" d="M14.747,21.925V52.92"/>
+	<path fill="none" stroke="#FF0000" stroke-width="1.0423" d="M17.264,21.925c0,0,0,29.519,0,30.995"/>
+	<g id="panel">
+		<rect x="2.181" y="2.62" fill="#333333" width="27.639" height="24.761"/>
+		<rect x="3.34" y="4.682" fill="#333C44" width="25.321" height="20.637"/>
+		<rect x="4.916" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="6.758" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="8.601" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="10.443" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="12.286" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="14.129" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="15.972" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="17.814" y="4.682" fill="#999999" width="0.131" height="20.636"/>
+		<rect x="19.657" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="21.5" y="4.682" fill="#999999" width="0.131" height="20.636"/>
+		<rect x="23.343" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="25.186" y="4.682" fill="#999999" width="0.13" height="20.636"/>
+		<rect x="27.027" y="4.682" fill="#999999" width="0.131" height="20.636"/>
+	</g>
+</g>
+</svg>

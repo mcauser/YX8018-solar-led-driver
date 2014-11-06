@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="3.94in" height="2.12in" viewBox="-102.492 -85.037 283.465 152.695" xml:space="preserve">
+<g id="breadboard">
+	<rect id="connector0pin" x="34.148" y="65.911" fill="none" width="0.999" height="0.999"/>
+	<rect id="connector1pin" x="41.337" y="65.911" fill="none" width="0.999" height="0.999"/>
+	<line id="connector0leg" fill="none" stroke="#000000" stroke-width="3" stroke-linecap="round" x1="35.639" y1="67.658" x2="35.639" y2="75.902"/>
+	<line id="connector1leg" fill="none" stroke="#FF0000" stroke-width="3" stroke-linecap="round" x1="42.871" y1="67.658" x2="42.871" y2="75.902"/>
+	<path fill="none" stroke="#000000" stroke-width="3" d="M35.639,53.062v14.597"/>
+	<path fill="none" stroke="#FF0000" stroke-width="3" d="M42.871,53.062v14.597"/>
+	<g>
+		<rect id="casing" x="-102.492" y="-85.037" fill="#333333" width="283.465" height="141.73"/>
+		<g id="cell1">
+			<rect x="-96.54" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="-92.571" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-86.618" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-80.666" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-74.713" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell2">
+			<rect x="-69.327" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="-65.358" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-59.406" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-53.453" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-47.5" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell3">
+			<rect x="-42.115" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="-38.146" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-32.194" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-26.241" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-20.288" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell4">
+			<rect x="-14.902" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="-10.933" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="-4.981" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="0.971" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="6.925" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell5">
+			<rect x="12.31" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="16.28" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="22.232" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="28.184" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="34.137" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell6">
+			<rect x="39.523" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="43.492" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="49.444" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="55.396" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="61.349" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell7">
+			<rect x="66.736" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="70.705" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="76.657" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="82.609" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="88.562" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell8">
+			<rect x="93.949" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="97.918" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="103.87" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="109.822" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="115.775" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell9">
+			<rect x="121.161" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="125.13" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="131.082" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="137.034" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="142.987" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+		<g id="cell10">
+			<rect x="148.374" y="-70.863" fill="#333C44" width="26.079" height="113.383"/>
+			<rect x="152.343" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="158.295" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="164.247" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+			<rect x="170.2" y="-70.865" fill="#666666" width="0.283" height="113.383"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 -96.5398 -76.0044)" fill="#FFFFFF" font-family="OCRA" font-size="5">5V 100mA Polycrystalline PET Solar Cell</text>
+</g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.0b" moduleId="IM130407002-5V-100mA-Polycrystalline-PET-Solar-Cell">
+ <version>1</version>
+ <author>Mike Causer</author>
+ <title>5V 100mA Polycrystalline PET Solar Cell</title>
+ <label>Solar Cell</label>
+ <date>Fri Nov 7 2014</date>
+ <url>http://imall.iteadstudio.com/im130407002.html</url>
+ <tags>
+  <tag>Solar Cell</tag>
+  <tag>Polycrystalline</tag>
+  <tag>PET</tag>
+  <tag>5V</tag>
+  <tag>IM130407002</tag>
+ </tags>
+ <properties>
+  <property name="family">Solar cell</property>
+  <property name="variant">variant 1</property>
+  <property name="part number">IM130407002</property>
+  <property name="layer"></property>
+  <property name="package"></property>
+  <property name="pins">2</property>
+  <property name="rated power">0.5W</property>
+  <property name="operating voltage">5V</property>
+  <property name="operating current">100mA</property>
+ </properties>
+ <description>This is 5V 100mA Polycrystalline PET Solar Cell. It is high quality and exquisite appearance. It is used in all kinds of high-grade electronic products.</description>
+ <views>
+  <iconView>
+   <layers image="icon/IM130407002-5V-100mA-Polycrystalline-PET-Solar-Cell_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/IM130407002-5V-100mA-Polycrystalline-PET-Solar-Cell_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/IM130407002-5V-100mA-Polycrystalline-PET-Solar-Cell_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/IM130407002-5V-100mA-Polycrystalline-PET-Solar-Cell_pcb.svg">
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector0" type="male" name="GND">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p legId="connector0leg" svgId="connector0pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" terminalId="connector0terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pad" layer="copper0"/>
+     <p svgId="connector0pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" type="male" name="5V">
+   <description>5V</description>
+   <views>
+    <breadboardView>
+     <p legId="connector1leg" svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" terminalId="connector1terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pad" layer="copper0"/>
+     <p svgId="connector1pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+</module>
