@@ -9,7 +9,7 @@ As found in the $3 Solar Lytworx LED sportlight from Bunnings.
 
 <http://www.bunnings.com.au/lytworx-solar-spotlight-plastic-3-white-led_p4351396>
 
-Contents:
+#### Contents:
 
 * Ni-Cd AA 300mAh 1.2v rechargable battery
 * YX8018 solar LED driver ic, TO-94 package
@@ -18,9 +18,13 @@ Contents:
 * 100 Microhenrys +/-10% inductor (brown black brown silver)
 * Switch
 
-YX8018 pins:
+#### YX8018 pins:
 
 * 1 LX
 * 2 GND
 * 3 CE
 * 4 VDD
+
+#### Fritzing:
+
+![Fritzing Breadboard](https://raw.github.com/mcauser/YX8018-solar-led-driver/master/breadboard.png)
