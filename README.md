@@ -1,18 +1,21 @@
-YX8018-solar-led-driver
-=======================
+# YX8018 Joule Thief Solar LED Driver
 
-4 pin integrated circuit for driving solar powered garden LED lights
+A 4-pin integrated circuit for driving solar powered garden LED lights.
 
 <http://shiningic.com/download.asp?id=8>
 
-As found in the $3 Solar Lytworx LED sportlight from Bunnings.
+As found in the $3 Solar Lytworx LED spotlight from Bunnings:
 
-<http://www.bunnings.com.au/lytworx-solar-spotlight-plastic-3-white-led_p4351396>
+<https://www.bunnings.com.au/lytworx-27cm-3-led-spotlight-solar-light_p4352170>
+
+You can buy 10x YX8018 ICs on AliExpress for around $1.50:
+
+<https://www.aliexpress.com/item/10PCS-Solar-Driver-IC-YX8018-8018-Solar-Light-Joule-Thief-DC-DC-Converter-Booster-IC-1/32837214177.html>
 
 #### Contents:
 
 * Ni-Cd AA 300mAh 1.2v rechargable battery
-* YX8018 solar LED driver ic, TO-94 package
+* YX8018 solar LED driver IC, TO-94 package
 * Solar panel, 5cm x 5.5cm
 * 3x white LED
 * 100 Microhenrys +/-10% inductor (brown black brown silver)
