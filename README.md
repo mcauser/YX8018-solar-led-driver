@@ -2,7 +2,7 @@
 
 A 4-pin integrated circuit for driving solar powered garden LED lights.
 
-<http://shiningic.com/download.asp?id=8>
+<http://shiningic.com/download.asp?id=7>
 
 As found in the $3 Solar Lytworx LED spotlight from Bunnings:
 
@@ -31,3 +31,8 @@ You can buy 10x YX8018 ICs on AliExpress for around $1.50:
 #### Fritzing:
 
 ![Fritzing Breadboard](https://raw.github.com/mcauser/YX8018-solar-led-driver/master/breadboard.png)
+
+#### Links:
+
+* [YX8018 product page](http://shiningic.com/download.asp?id=7)
+* [YX8018 datasheet](http://shiningic.com/UpLoad/20130605111330984.pdf)
